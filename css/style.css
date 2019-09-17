@@ -39,7 +39,10 @@ header a:hover{
 
 #about img {
   border: 5px solid #98ADA6;
-  margin-top: 0;
+  display: block;
+margin-left: auto;
+margin-right: auto;
+width: 50%;
 }
 
 section h2 {
